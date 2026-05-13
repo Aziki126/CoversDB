@@ -332,7 +332,7 @@ Great Big Comics|comics/Great Big Comics.png
 Gentosha|manga/gentosha.png
 Grind House Comics|comics/Grind House Comics.png
 Hachette|comics/Hachette.png
-Hakusensha|manga/Hakusensha.png
+Hakusensha#白泉社|manga/Hakusensha.png
 Harper & Row|comics/Harper & Row.png
 Harpercollins#HarperCollinsPublishers#HarperCollins Publishers|comics/Harpercollins.png
 Harvey Pekar|comics/Harvey Pekar.png
@@ -346,7 +346,7 @@ Houbunsha#Hobunsha|manga/houbunsha.png
 Houghton Mifflin#Houghton Mifflin Harcourt|comics/Houghton Mifflin.png
 Humanoids|comics/Humanoids.png
 I Box Publishing|comics/I Box Publishing.png
-Ichijinsha|manga/ichijinsha.png
+Ichijinsha#一迅社|manga/ichijinsha.png
 Icon Comics|comics/Icon Comics.png
 Iconic Comics|comics/Iconic Comics.png
 Id Software|comics/Id Software.png
@@ -368,7 +368,7 @@ Key Publications|comics/Key Publications.png
 Kill Time Communication|manga/Kill Time Communication.png
 Kitchen Sink|comics/Kitchen Sink.png
 KiZoic|comics/KiZoic.png
-Kodansha#Kodansha USA#Kodansha Comics#Kodansha Comics USA#Kodansha Comics Digital-First!|comics/Kodansha.png
+Kodansha#Kodansha USA#Kodansha Comics#Kodansha Comics USA#Kodansha Comics Digital-First!#講談社|comics/Kodansha.png
 Kult Editionen|comics/Kult Editionen.png
 Kurokawa|comics/Kurokawa.png
 L. Miller|comics/L. Miller.png
@@ -477,8 +477,8 @@ SelfMadeHero|comics/SelfMadeHero.png
 Sergio Bonelli Editore|comics/Sergio Bonelli Editore.png
 Shadowline|comics/Shadowline.png
 Shanda Fantasy Arts|comics/Shanda Fantasy Arts.png
-Shogakukan#Shogakukan Asia|comics/Shogakukan.png
-Shueisha|comics/Shueisha.png
+Shogakukan#Shogakukan Asia#小学館|comics/Shogakukan.png
+Shueisha#集英社|comics/Shueisha.png
 Silent Devil Productions|comics/Silent Devil Productions.png
 Silvester Strips|comics/Silvester Strips.png
 Simon and Schuster#Simon & Schuster|comics/Simon and Schuster.png
@@ -495,7 +495,7 @@ Speakeasy Comics|comics/Speakeasy Comics.png
 Sphinx Comix|comics/Sphinx Comix.png
 Spire Christian Comics|comics/Spire Christian Comics.png
 Splitter|comics/Splitter.png
-Square Enix Manga & Books#Square Enix#Square Enix USA|comics/Square Enix Manga & Books.png
+Square Enix Manga & Books#Square Enix#Square Enix USA#スクウェア・エニックス|comics/Square Enix Manga & Books.png
 St. John Publishing|comics/St. John Publishing.png
 St. Martin's Publishing Group|books/St. Martin's Publishing Group.png
 Standard|comics/Standard.png
